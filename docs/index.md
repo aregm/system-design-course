@@ -22,3 +22,7 @@ This course explores the principles and practices of software design and archite
 *	Juval Löwy, Righting Software
 
 ### [Syllabus](schedule.md)
+
+### [Books](books/books.md)
+
+### [Articles](articles/articles.md)
