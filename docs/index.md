@@ -21,10 +21,4 @@ This course explores the principles and practices of software design and archite
 *	Fred Brooks, Design of Design
 *	Juval Löwy, Righting Software
 
-Optional materials 
-Designing Software Architectures
-Mark Richards, Neal Ford, Fundamentals of Software Architecture
-Mark Richards, Neal Ford,  Software Architecture the Hard Parts.
-Len Bass, Paul Clements, Rick Kazman, Software Architecture in Practice, 4th Ed. 2022
-Mark Maier, Eberhardt Reichtin, The Art of Systems Architecting, 3rd Ed.
-
+### [Syllabus](schedule.md)
