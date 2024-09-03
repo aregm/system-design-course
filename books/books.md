@@ -10,5 +10,5 @@
 * [Michael DiBernardo, 500 Lines or Less](https://github.com/aregm/system-design-course/blob/main/books/Michael%20DiBernardo%20-%20500%20Lines%20Or%20Less-Lulu.com%20(2016).pdf)
 * [M. Maier, E. Rechtin, The Art of Systems Architecting, 3rd Ed.](https://www.amazon.com/Art-Systems-Architecting-Engineering/dp/1032099526/)
 * [M. Klepmann, Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/)
-* 
+* [A. Wilson, G. Wilson, The Architecture of Open Source Applications](https://aosabook.org/en/)
 * 
