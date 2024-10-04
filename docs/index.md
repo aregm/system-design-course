@@ -23,6 +23,6 @@ This course explores the principles and practices of software design and archite
 
 ### [Syllabus](schedule.md)
 
-### [Books](books/books.md)
+### [Books](../books/books.md)
 
-### [Articles](articles/articles.md)
+### [Articles](../articles/articles.md)
