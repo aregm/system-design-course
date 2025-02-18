@@ -22,9 +22,9 @@ This course explores the principles and practices of software design and archite
 *	Fred Brooks, Design of Design
 *	Juval Löwy, Righting Software
 
-### [Syllabus](schedule.md)
+### [Syllabus](docs/schedule.md)
 
-### [Books](../books/books.md)
+### [Books](books/books.md)
 
-### [Articles](../articles/articles.md)
+### [Articles](articles/articles.md)
 
