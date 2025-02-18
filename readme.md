@@ -1,7 +1,6 @@
 # Principles of the Software Design Course
 
-# Principles of Software Design
-## Fall 2024
+## 2024-2025
 
 ### Educational Objectives
 This is a mixed under- and graduate-level elective course on the basic principles of designing software systems. The course is intended to create a foundation for designing good software and provide the tools for practical usage in the industry. This course has a heavy emphasis on small programming projects. There are also readings assigned for each class and a final exam. Upon successful completion of this course, the student should be able to:
